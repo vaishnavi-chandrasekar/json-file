@@ -1,0 +1,97 @@
+{
+    "meta":{
+        "theme":"elegant"
+},
+"basics":{
+"name":"kishore Chanrasekar",
+"label":"web developer",
+"summary":"i am currently learning full stack development from the well recognized center , GUVI GEEKS",
+"email":"karthiikkishore@gmail.com",
+"location":{
+    "city":"chennai",
+    "countrycode":"IN"
+},
+"work": [{
+    "name": "Go spares",
+    "position": "President",
+    "url": "https://gospares.com",
+    "startDate": "2001-05-28",
+    "status": "active",
+    "summary": "it is an automobile shop where the spare parts are delivered to the customers on time from the date of ordering/requirement",
+     "highlights":[
+         "express delivery is available"
+
+
+    ]
+  }],
+  "education": [{
+    "institution": " Anna University",
+    "url": "https://Anna university.com/",
+    "area": "mechanical engineering",
+    "studyType": "Bachelor",
+    "startDate": "2015-01-01",
+    "endDate": "2019-01-01",
+    "score": "7.5 cgpa",
+    "courses": [
+      "full stack development"
+    ]
+  }],
+  "awards": [{
+    "title": "badhma booshan",
+    "date": "2014-11-01",
+    "awarder": "gospares",
+    "summary": "life is a heck."
+  }],
+  "publications": [{
+    "name": "a last candle",
+    "publisher": "wings of fire",
+    "releaseDate": "2014-10-01",
+    "url": "https://publication.com",
+    "summary": "opportunities…"
+  }],
+  "skills": [{
+    "name": "Web Development",
+    "level": "intermediate",
+    "keywords": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ]
+  }],
+  "languages": [{
+    "language": "English,tamil,telugu",
+    "fluency": "well-versed"
+  }],
+  "interests": [{
+    "name": "Wildlife",
+    "keywords": [
+      "Ferrets",
+      "Unicorns"
+    ]
+  }],
+  "references": [{
+    "name": "purushothaman",
+    "reference": "pums panayancheri,govt teacher"
+  }],
+  "projects": [{
+    "name": "tictactoe",
+    "description": "game",
+    "highlights": [
+      "Won award for tictactoe"
+    ],
+    "keywords": [
+      "HTML"
+    ],
+    "startDate": "2019-01-01",
+    "endDate": "2021-01-01",
+    "url": "https://tictactoe.com/",
+    "roles": [
+      "Team Lead",
+      "business development executive"
+    ],
+    "entity": "Entity",
+    "type": "application"
+  }]
+}
+
+}
